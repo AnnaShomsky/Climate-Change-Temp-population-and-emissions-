@@ -1,10 +1,13 @@
 # Climate-Change-Temp-population-and-emissions-
-This is my Capstone for my Data Analystics program at Springboard. 
+This is my Capstone for my Data Analystics program at Springboard. I compiled three datasets from the World Bank, one with temperature data for every month in every country from 1960 to 2018, one for populaiton of every country since 1960, and one for per capita emissions for every country since 1960.
 
 Its purpose is to look at the relationship betweeen emissions, population, and climate change, and to make predicitons about the future based on the last 60 years of trends. 
 
+You can download the Jupyter Notebook and the csv files. That will allow you to run the prgroam, which has user input features. Below are some screenshots from the program, as well as  from a Tableau dashboard I made based on datasets I cleaned and merged using Python. 
+
 
 <img width="724" alt="temperature prediction" src="https://user-images.githubusercontent.com/98672738/159775397-08047604-3a0f-40ef-a910-5eadc8d51f88.png">
+
 
 <img width="905" alt="wealth gap" src="https://user-images.githubusercontent.com/98672738/159775479-5cbf55a2-d4d5-4e2a-aa34-dd559fa520b9.png">
 
