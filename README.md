@@ -17,3 +17,7 @@ You can download the Jupyter Notebook and the csv files. That will allow you to 
 
 <img width="1087" alt="Screen Shot 2022-03-22 at 3 26 04 PM" src="https://user-images.githubusercontent.com/98672738/159775699-8a4b6302-e9b0-48e1-8067-fc81850c0268.png">
 
+<img width="909" alt="Screen Shot 2022-07-20 at 10 07 34 AM" src="https://user-images.githubusercontent.com/98672738/180046997-e97337ac-cf44-48ef-b413-5c672102695b.png">
+
+
+<img width="822" alt="Screen Shot 2022-07-20 at 10 34 15 AM" src="https://user-images.githubusercontent.com/98672738/180047123-ab40463a-493c-4d46-8903-98c57267241a.png">
